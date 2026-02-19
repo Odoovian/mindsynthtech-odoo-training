@@ -34,8 +34,8 @@ The **Library Management Module** allows users to manage books inside Odoo.
 
 # Developed By
 
-Ayesha Siddika Suchi
-Odoo Training – Mindsynthtech
+Ayesha Siddika Suchi|
+Odoo Training – Mindsynthtech|
 Senior Java (iDempiere) Developer | Learning Odoo
 
 ---
