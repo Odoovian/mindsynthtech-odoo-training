@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <menuitem id="menu_library_root" name="Library"/>
+    <menuitem id="menu_library_book_category"
+              name="Library Book Category"
+              parent="menu_library_root"
+              sequence="1"
+              action="action_library_book_category"/>
+    <menuitem id="menu_library_book"
+              name="Library Book"
+              parent="menu_library_root"
+              sequence="2"
+              action="action_library_book"/>
+</odoo>
