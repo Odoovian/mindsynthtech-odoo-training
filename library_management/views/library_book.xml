@@ -12,7 +12,7 @@
                             <field name="name"/>
                             <field name="author"/>
                             <field name="isbn"/>
-                            <field name="book_category_id"/>
+                            <field name="category"/>
                         </group>
                         <group>
                             <field name="publication_date"/>
